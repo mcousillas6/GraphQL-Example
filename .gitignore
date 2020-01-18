@@ -1,0 +1,14 @@
+node_modules/
+.node_modules/
+.env
+.env.test
+.env.development
+.env.production
+.nyc_output/
+**/.DS_Store
+**/.vs
+**/.vscode
+!**/.vscode/tasks.json
+package-lock.json
+**/dump.rdb
+dump.rdb
